@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/user"
+        android:title="User" />
+    <item
+        android:id="@+id/nav_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/search"
+        android:title="Search"
+
+         />
+    <item
+        android:id="@+id/nav_shop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Shoping"
+        android:icon="@drawable/shoping"
+        />
+    <item
+        android:id="@+id/nav_product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Product"
+        android:icon="@drawable/list"
+        />
+</menu>
